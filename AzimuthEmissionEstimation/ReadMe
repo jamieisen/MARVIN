@@ -1,0 +1,5 @@
+Download the jupyter notebook and run the first cell for the 
+interactive plot which represents the goniometer's configuration.
+
+The second cell generates the associated csv file, which contains
+computations of all azimuth, emission, and phase angles.
